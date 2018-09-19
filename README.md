@@ -9,8 +9,7 @@ In its simplest form, Burp Suite can be classified as an Interception Proxy. Whi
 
 For more infos -> https://portswigger.net/burp
 
-Please use Java 8 beacuse from version 9 and up xbootclasspath argument has been disabled.
-Works only with Java 8.
+## Works only with Java 8. beacuse from version 9 and up xbootclasspath argument has been disabled.
 
 Keygen and Loader proof:
 
