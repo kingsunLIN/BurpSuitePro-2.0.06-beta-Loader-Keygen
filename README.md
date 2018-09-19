@@ -16,3 +16,14 @@ Keygen and Loader proof:
 ![Activation](https://preview.ibb.co/ghb9we/Capture.png)
 
 ![Licensed](https://preview.ibb.co/d16W9z/Capture2.png)
+
+
+Downloads:
+MEDIAFIRE BANNED MY .ZIP
+https://www68.zippyshare.com/v/5N3A8bmK/file.html
+
+BurpKeygen.jar Virustotal scan:
+https://www.virustotal.com/#/file/b6278957d5271a223c7f3801de77a05ee9d95353551dcbfd019ea0101ebd9cdf/detection
+
+burpsuite_pro_v2.0.06beta.jar Virustotal scan:
+https://www.virustotal.com/#/file/3a60484329c3b4b605ac5d042530b27cc2abfeb0057ca747793e7fa5ec134ffd/detection
